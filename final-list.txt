@@ -1,5 +1,5 @@
 List:
-1 Sting
+2 Sting
 3 Zingers
 1 Shawarma
 1 Chicken Wings from Burger Wurger
